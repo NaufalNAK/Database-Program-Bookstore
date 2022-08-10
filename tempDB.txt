@@ -1,0 +1,6 @@
+radityadika_2005_1,2005,Raditya Dika,Gagasmedia,Kambing Jantan
+radityadika_2006_1,2006,Raditya Dika,Gagasmedia,Cinta Brontosaurus
+RadityaDika_2010_1,2010,Raditya Dika,Gagasmedia,Manusia Setengah Salmon
+kevinanggara_2013_1,2013,Kevin Anggara,Bukune,Student Guidebook for Dummies
+kevinanggara_2015_1,2015,Kevin Anggara,Bukune,Student Guidebook for Dummies 2
+ErnestPrakasa_2015_1,2015,Ernest Prakasa,Bukune,Ngenest
